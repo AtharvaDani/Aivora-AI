@@ -1,0 +1,21 @@
+# React dependencies
+frontend/**/node_modules/
+
+# Spring Boot build files
+backend/**/target/
+
+# IDE files
+.idea/
+.vscode/
+.classpath
+.project
+.settings/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Testing files
+response.json
