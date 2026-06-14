@@ -68,7 +68,7 @@ function App() {
       </main>
 
       <footer className="footer">
-        <p>Aivora AI — Built with Spring Boot & React</p>
+        <p>© 2026 Aivora AI — Built with Spring Boot & React</p>
       </footer>
     </div>
   );
